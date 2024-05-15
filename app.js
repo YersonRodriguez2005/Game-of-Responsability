@@ -106,7 +106,7 @@ function chooseOption(points, button, scenarioIndex, optionIndex) {
     } else {
       showReflection();
     }
-  }, 5000);
+  }, 3000);
 }
 
 // Función para mostrar la retroalimentación
