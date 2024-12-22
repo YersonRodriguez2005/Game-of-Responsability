@@ -1,0 +1,8 @@
+echo "Contribución inicial" > contribucion.txt
+git add contribucion.txt
+git commit -m "Contribución inicial"
+git push origin main
+Contribución diaria 22/12/2024 
+Contribución diaria 22/12/2024 
+Contribución diaria 22/12/2024 
+Contribución diaria 22/12/2024 
